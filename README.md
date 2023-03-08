@@ -1,2 +1,3 @@
 # Real-Time-Bus-Tracker
-Map takes you through my travels this year so far!
+Map shows you bus 1 that goes from MIT to Harvard 
+!
