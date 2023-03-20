@@ -28,7 +28,7 @@ In Transit:  <br/>
 <br />
 <br />
 Arriving at Harvard: <br/>
-<img src="https://imgur.com/PrZ0AjV.png" height="80%" width="80%" alt="Arriving at Harvard"/>
+<img src="https://imgur.com/3N4MXpG.png" height="80%" width="80%" alt="Arriving at Harvard"/>
 <br />
 <br />
 
