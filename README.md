@@ -20,15 +20,15 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/VYrPKvx" height="80%" width="80%" alt="First Stop MIT"/>
+<img src="https://imgur.com/VYrPKvx.png" height="80%" width="80%" alt="First Stop MIT"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://imgur.com/3N4MXpG" height="80%" width="80%" alt="In Transit"/>
+<img src="https://imgur.com/3N4MXpG.png" height="80%" width="80%" alt="In Transit"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://imgur.com/PrZ0AjV" height="80%" width="80%" alt="Arriving at Harvard"/>
+<img src="https://imgur.com/PrZ0AjV.png" height="80%" width="80%" alt="Arriving at Harvard"/>
 <br />
 <br />
 Confirm your selection:  <br/>
