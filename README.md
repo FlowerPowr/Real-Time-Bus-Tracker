@@ -1,4 +1,4 @@
-<h1>Real Time Boston Bus Tracker: MIT to Harvard</h1>
+<h1>Boston Bus Tracker: MIT to Harvard</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
