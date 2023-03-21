@@ -4,6 +4,11 @@
 
 <h2>Description</h2>
 Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+
+How to Run: This is information someone would use to get started running your project on their machine. 
+
+Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
+License information: This should include information about the MIT license. 
 <br />
 
 
