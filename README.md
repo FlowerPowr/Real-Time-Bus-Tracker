@@ -1,25 +1,29 @@
 <h1>Boston Bus Tracker: MIT to Harvard</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+I used the MBTA bus data to determine stops between Harvard and MIT. Then, I added an animated marker on the map to highlight the bus routes. I created a Mapbox account and got an access token. Then I added the access token to the mapboxgl instance and defined the mapanimation.js. Next I created a marker and added it to the map using the mapboxgl pre-built functions. Finally the function move() is called when the button “Show stops between MIT and Harvard” is selected. This is how I started the marker animation. You should be able to see a marker moving from one bus stop to the next on the map.
 
-How to Run: This is information someone would use to get started running your project on their machine. 
 
-Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
-License information: This should include information about the MIT license. 
+How to Run: Hit the button and watch the marker move!
+
+Roadmap of future improvements: I would like to create a more zoomed out version of the map, so that it can track all the destinations that I have travelled to in the last 12 months. 
+
+License information: Copyright (c) 2012-2022 Scott Chacon and others
+
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VS Code</b> 
+- <b>HTML</b>
+- <b>Javascrpit</b>
+- <b>CSS</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>MacOS Monterrey</b> (12.5.1)
 
 <h2>Program walk-through:</h2>
 
